@@ -102,37 +102,37 @@
     color: #eeeeee;
 }
 
-.experience-contents,
+.studies-contents,
 .education-contents,
-.awards-contents {
+.hobbies-contents {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
     color: #F1F8FD;
 }
 
-.exp-company-name,
+.studies-company-name,
 .education-school-name,
-.awards-company-name {
+.hobbies-name {
     font-size: 25px;
     font-weight: bold;
 }
 
-.exp-time-period,
-.educationp-time-period,
-.awards-time-period {
+.studies-time-period,
+.education-time-period,
+.hobbies-desc {
     font-size: 18px;
 }
 
-.exp-position,
+.studies-position,
 .education-subject,
-.awards-name {
+.hobbies-name {
     font-size: 25px;
 }
 
-.exp-desc,
+.studies-desc,
 .education-desc,
-.awards-desc {
+.hobbies-desc {
     font-size: 16px;
     padding-left: 5px;
 }
